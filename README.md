@@ -24,3 +24,10 @@ O Mordomo 3000 cobre três etapas da entrega: receber, transportar e entregar.
  - Recebimento na porta: O robô aguarda na entrada da casa e recebe o pacote na bandeja superior, sem que o morador precise estar presente.
  - Transporte seguro: A carga é levada sobre a bandeja com bordas, que a mantém no lugar durante o deslocamento sobre as quatro rodas.
  - Entrega ao destino: O robô leva a encomenda até a pessoa responsável ou até o local apropriado da casa.
+
+Referência
+=
+
+No momento, o código necessário para compilar e executar o projeto está no repositório abaixo:
+
+https://github.com/AndRonald/Mordomo3000
