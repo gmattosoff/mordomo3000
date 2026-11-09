@@ -1,8 +1,6 @@
-MORDOMO 3000
+=== MORDOMO 3000 ===
 
-
-
-Visão geral
+=== Visão geral ===
 
 O Mordomo 3000 é uma máquina de transporte inteligente que recebe encomendas diretamente na porta de casa e as leva, de forma prática e segura, até o local apropriado.
 
@@ -16,9 +14,7 @@ Objetivos do projeto:
 
 Público-alvo: Indivíduos com dificuldades físicas que recebem encomendas com frequência.
 
-
-
-Funcionalidades principais
+=== Funcionalidades principais ===
 
 O Mordomo 3000 cobre três etapas da entrega: receber, transportar e entregar.
 
