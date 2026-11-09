@@ -1,5 +1,7 @@
 MORDOMO 3000
 
+
+
 Visão geral
 
 O Mordomo 3000 é uma máquina de transporte inteligente que recebe encomendas diretamente na porta de casa e as leva, de forma prática e segura, até o local apropriado.
@@ -13,6 +15,8 @@ Objetivos do projeto:
  - Transportar a carga com segurança até o local correto.
 
 Público-alvo: Indivíduos com dificuldades físicas que recebem encomendas com frequência.
+
+
 
 Funcionalidades principais
 
