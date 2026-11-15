@@ -33,10 +33,10 @@ Modelos inicial e final do robô:
 
 Fases de desenvolvimento do ambiente virtual:
 =
-![Modelo final do robô](imgs/image4.png)
-![Modelo final do robô](imgs/image2.png)
-![Modelo final do robô](imgs/image6.png)
-![Modelo final do robô](imgs/image1.png)
+![Modelo inicial do ambiente](imgs/image4.png)
+![Modelo intermediário 1 do ambiente](imgs/image2.png)
+![Modelo intermediário 2 do ambiente](imgs/image7.png)
+![Modelo final do ambiente](imgs/image1.png)
 
 Hierarquia de Pastas e Arquivos
 =
