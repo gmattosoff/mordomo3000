@@ -25,9 +25,23 @@ O Mordomo 3000 cobre três etapas da entrega: receber, transportar e entregar.
  - Transporte seguro: A carga é levada sobre a bandeja com bordas, que a mantém no lugar durante o deslocamento sobre as quatro rodas.
  - Entrega ao destino: O robô leva a encomenda até a pessoa responsável ou até o local apropriado da casa.
 
-Referência
+Modelos inicial e final do Mordomo 3000:
 =
 
-No momento, o código necessário para compilar e executar o projeto está no repositório abaixo:
+Fases de desenvolvimento do ambiente virtual:
+=
 
-https://github.com/AndRonald/Mordomo3000
+Hierarquia de Pastas e Arquivos
+=
+
+
+
+Execução e Comandos
+=
+
+Após executar o projeto, a simulação pode ser manipulada por meio do menu visível na tela e também pelas teclas abaixo:
+
+X  -  Cria a encomenda
+T  -  Alterna a velocidade
+ESPAÇO  -  Pausa
+C  -   Alterna a câmera
