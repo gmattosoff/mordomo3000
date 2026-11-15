@@ -27,9 +27,8 @@ O Mordomo 3000 cobre três etapas da entrega: receber, transportar e entregar.
 
 Modelos inicial e final do robô:
 =
-
-![Modelo inicial do robô](imgs/image5.png)
-![Modelo final do robô](imgs/image3.png)
+<img src="imgs/image5.png" width="400" alt="Modelo inicial do robô">
+<img src="imgs/image3.png" width="400" alt="Modelo final do robô">
 
 Fases de desenvolvimento do ambiente virtual:
 =
@@ -40,7 +39,6 @@ Fases de desenvolvimento do ambiente virtual:
 
 Hierarquia de Pastas e Arquivos
 =
-
 ![Hierarquia de Pastas e Arquivos](imgs/image6.png)
 
 Execução e Comandos
