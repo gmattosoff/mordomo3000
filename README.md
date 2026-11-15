@@ -34,20 +34,17 @@ Modelos inicial e final do robô:
 Fases de desenvolvimento do ambiente virtual:
 =
 ![Modelo inicial do ambiente](imgs/image4.png)
-![Modelo intermediário 1 do ambiente](imgs/image2.png)
 ![Modelo intermediário 2 do ambiente](imgs/image7.png)
 ![Modelo final do ambiente](imgs/image1.png)
+![Modelo intermediário 1 do ambiente](imgs/image2.png)
 
 Hierarquia de Pastas e Arquivos
 =
 
-
+![Hierarquia de Pastas e Arquivos](imgs/image6.png)
 
 Execução e Comandos
 =
-
-
-
 Após executar o projeto, a simulação pode ser manipulada por meio do menu visível na tela e também pelas teclas abaixo:
 
 X  -  Cria a encomenda
